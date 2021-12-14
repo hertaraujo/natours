@@ -8,10 +8,32 @@
 
 html {
   // It defines what is 1rem
-  font-size: 62.5%;
+  font-size: 62.5%; // 1 rem = 10px, because 10/16 = 0.625 (62,5%)
+
+  @include respond(tab-land) {
+    // width <= 1200px?
+    font-size: 56.25%; // 1 rem = 9px, because 9/16 = 0.5625 (56,25%)
+  }
+
+  @include respond(tab-port) {
+    // width <= 900px?
+    font-size: 50%; // 1 rem = 8px, because 8/16 = 0.5 (50%)
+  }
+
+  @include respond(big-desktop) {
+    // width >= 1800px?
+    font-size: 75%; // 1 rem = 12px, because 12/16 = 0.75 (75%)
+  }
 }
 
 body {
   /* Settings to be inherited */
   box-sizing: border-box;
+
+  /* Settings of the body | it get not inherited */
+  padding: 3rem;
+
+  @include respond(tab-port) {
+    padding: 0;
+  }
 }
