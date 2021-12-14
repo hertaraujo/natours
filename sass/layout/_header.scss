@@ -29,9 +29,8 @@
 } */
 
   &__text-box {
-    @include center-horizontal-and-vertically;
+    @include absCenter;
     top: 40%;
-
     text-align: center;
   }
 }
