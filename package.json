@@ -4,8 +4,7 @@
   "description": "Landing page for natours",
   "main": "index.js",
   "scripts": {
-    "compile:scss": "node-sass sass/main.scss css/style.css -w",
-    "build": "node-sass sass/main.scss css/style.css"
+    "compile:scss": "node-sass sass/main.scss css/style.css -w"
   },
   "author": "hert",
   "license": "ISC",
