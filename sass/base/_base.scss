@@ -24,6 +24,8 @@ html {
     // width >= 1800px?
     font-size: 75%; // 1 rem = 12px, because 12/16 = 0.75 (75%)
   }
+
+  -webkit-scroll-behavior: smooth;
   scroll-behavior: smooth;
 }
 
@@ -37,4 +39,9 @@ body {
   @include respond(tab-port) {
     padding: 0;
   }
+}
+
+::selection {
+  background-color: $color-primary;
+  color: $color-white;
 }
