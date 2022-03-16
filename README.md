@@ -20,6 +20,6 @@ Semantic HTML
 <br />
 <br />
 
-### See all the animations
+### See some of the animations
 
 https://user-images.githubusercontent.com/93950140/158595463-596d6332-dc52-443c-8c8b-6e163d610c48.mp4
