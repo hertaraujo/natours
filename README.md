@@ -2,17 +2,23 @@
 
 ![Natuors logo](https://github.com/hertaraujo/natours/blob/master/img/favicon.png?raw=true) 
 ### [Natours's](https://natours-hert.netlify.app/) responsive landing page (fictional company) 
+<br />
+
 
 ### CSS architecture
-The 7-1 rule
-component-based design
-BEM methodology
+The 7-1 rule\
+component-based design\
+BEM methodology\
 writing reusable, maintainable, and scalable code.
+<br />
+<br />
 
 ### Technologies
-Advanced and modern CSS
-Sass
+Advanced and modern CSS\
+Sass\
 Semantic HTML
+<br />
+<br />
 
 ### See all the animations
 
