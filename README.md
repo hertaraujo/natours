@@ -3,4 +3,17 @@
 ![Natuors logo](https://github.com/hertaraujo/natours/blob/master/img/favicon.png?raw=true) 
 ### [Natours's](https://natours-hert.netlify.app/) responsive landing page (fictional company) 
 
-The purpose of the project is to practice Sass, advanced and modern CSS, animations, media queries, semantic HTML and much more.
+### CSS architecture
+The 7-1 rule
+component-based design
+BEM methodology
+writing reusable, maintainable, and scalable code.
+
+### Technologies
+Advanced and modern CSS
+Sass
+Semantic HTML
+
+### See all the animations
+
+https://user-images.githubusercontent.com/93950140/158595463-596d6332-dc52-443c-8c8b-6e163d610c48.mp4
